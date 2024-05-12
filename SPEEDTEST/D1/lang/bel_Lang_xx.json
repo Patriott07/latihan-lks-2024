@@ -1,0 +1,20 @@
+{
+    "title": "Facegram",
+    "description": "Maak alles duidelijk met één klik en blijf op een eenvoudige manier in contact met anderen",
+    "nav": {
+        "Home": "Home",
+        "About": "over ons",
+        "Contact": "contact",
+        "Product": "onze productens"
+    },
+    "content" : [
+        {
+            "heading": "Mooie Stranden op het Eiland Bali",
+            "paragraph": "De stranden op het eiland Bali zijn ongelooflijk mooi en betoverend. Het zachte witte zand en het heldere blauwe water maken deze stranden een ideale plek om te ontspannen en te genieten van de natuurlijke schoonheid."
+        },
+        {
+            "heading": "Mooie Stranden op het Eiland Bali",
+            "paragraph": "De stranden op het eiland Bali zijn ongelooflijk mooi en betoverend. Het zachte witte zand en het heldere blauwe water maken deze stranden een ideale plek om te ontspannen en te genieten van de natuurlijke schoonheid."
+        }
+    ]
+}

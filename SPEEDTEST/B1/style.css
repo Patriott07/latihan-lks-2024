@@ -1,0 +1,33 @@
+.s-1{
+    height: 20vh;
+    width: 300px;
+}
+.s-2{
+    height: 25vh;
+    width: 300px;
+}
+.s-3{
+    width: 300px;
+    height: 35vh;
+}
+.s-1, .s-2, .s-3{
+    background-color: gray;
+}
+.flex{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+.content{
+    gap: 16px;
+    display: flex;
+    flex-shrink: 33%;
+    width: 960px;
+}
+
+body{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

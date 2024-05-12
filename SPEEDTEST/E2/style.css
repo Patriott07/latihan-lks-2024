@@ -1,0 +1,10 @@
+canvas{
+    border: 2px solid slategray;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 95vh;
+}

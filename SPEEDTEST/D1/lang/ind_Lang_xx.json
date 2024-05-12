@@ -1,0 +1,20 @@
+{
+    "title": "Facegram",
+    "description": "Jadikan semuanya jelas dengan satu klik dan tetap terhubung dengan yang lain dengan cara mudah",
+    "nav": {
+        "Home": "Beranda",
+        "About": "Tentang Kami",
+        "Contact": "Kontak",
+        "Product": "Jasa"
+    },
+    "content": [
+        {
+            "heading": "Pantai Indah di Pulau Bali",
+            "paragraph": "Pantai di Pulau Bali sangat indah dan menawan. Hamparan pasir putih yang lembut dan air laut yang jernih menjadikan pantai ini tempat yang ideal untuk bersantai dan menikmati keindahan alam."
+        },
+        {
+            "heading": "Pantai Indah di Pulau Bali",
+            "paragraph": "Pantai di Pulau Bali sangat indah dan menawan. Hamparan pasir putih yang lembut dan air laut yang jernih menjadikan pantai ini tempat yang ideal untuk bersantai dan menikmati keindahan alam."
+        }
+    ] 
+}

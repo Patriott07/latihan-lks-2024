@@ -1,0 +1,4 @@
+table, thead, tbody, tr, th, td{
+    border: 1px solid rgba(112, 128, 144, 0.404);
+    padding: 10px;
+}   

@@ -1,0 +1,20 @@
+{
+    "title": "Facegram",
+    "description": "Make everything clear with one click and stay connect with other with easy way",
+    "nav": {
+        "Home": "Home",
+        "About": "About us",
+        "Contact": "Contact",
+        "Product": "Our Products"
+    },
+    "content": [
+        {
+            "heading": "Beautiful Beaches in Bali Island",
+            "paragraph": "The beaches in Bali Island are incredibly beautiful and enchanting. The soft white sand and clear blue waters make these beaches an ideal place to relax and enjoy the natural beauty."
+        },
+        {
+            "heading": "Beautiful Beaches in Bali Island",
+            "paragraph": "The beaches in Bali Island are incredibly beautiful and enchanting. The soft white sand and clear blue waters make these beaches an ideal place to relax and enjoy the natural beauty."
+        }
+    ] 
+}

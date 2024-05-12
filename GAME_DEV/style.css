@@ -1,0 +1,53 @@
+nav{
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(255, 136, 0);
+}
+
+h1{
+    color: white;
+    font-weight: 700;
+}
+
+.instrutor{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.desription{
+    max-width: 500px;
+}
+
+.desription h1, .how-to-play h1{
+    padding: 20px;
+    background-color: skyblue;
+    color: white;
+}
+
+.how-to-play{
+    max-width: 500px;
+}
+
+body{
+    padding: 40px;
+}
+
+
+canvas{
+    border: 1px solid slategray;
+    margin: auto;
+    position: relative;
+}
+
+.d-none{
+    display: none;
+}
+
+#zombie{
+    position: absolute;
+    top: 0;
+    left: 0;
+    /* rotate: 180deg; */
+    transform: rotate(180deg)!important;
+}
